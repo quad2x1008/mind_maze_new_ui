@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "618529852301",
+    "project_id": "phone-firebase-66b77",
+    "storage_bucket": "phone-firebase-66b77.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:618529852301:android:8fedd5780cb1e62c270bc4",
+        "android_client_info": {
+          "package_name": "com.example.mind_maze1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCa1Aj2jGs9GpdaxSuiLK5nw5gfTxYOiAc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
